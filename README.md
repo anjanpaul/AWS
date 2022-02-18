@@ -42,7 +42,7 @@ A source control service on AWS that hosts private Git repositories and works se
 ## AWS CodeBuild:
 
 A continuous integration service that builds and compiles source code, runs a predefined set of tests and generates artifacts as deployable software.
-![alt text](https://github.com/anjanpaul/Portainer-ECR/blob/main/Output/Screenshot%202022-02-10%20at%2011.11.37%20AM.png)
+![alt text](https://github.com/anjanpaul/AWS/blob/main/Output/setup-cicd-pipeline2.5cefde1406fa6787d9d3c38ae6ba3a53e8df3be8.png)
 
 ## Amazon CloudWatch:
 

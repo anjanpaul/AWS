@@ -7,7 +7,7 @@ AWS Lambda is an event-driven computing cloud service from Amazon Web Services t
 
 ## Benefits of AWS LAMBDA:
 One of the main benefits of AWS Lambda is that it abstracts server management away from the IT professional. With AWS Lambda, Amazon manages the servers, which allows a developer to focus more on writing application code.
-![alt text](https://github.com/anjanpaul/Portainer-ECR/blob/main/Output/Screenshot%202022-02-10%20at%2011.11.37%20AM.png)
+![alt text](https://github.com/anjanpaul/AWS/blob/main/Output/lambda.png)
 
 AWS supports code written in a variety of programming languages. AWS Lambda languages include Node.js, Python, Java and C#. Developers can also use code compiler tools, such as Maven or Gradle, and packages to build functions.
 

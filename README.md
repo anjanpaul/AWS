@@ -30,11 +30,6 @@ Under Apache License, a developer can use the AWS Amplify declarative API to int
 
 A continuous delivery service that enables IT teams to define the steps and workflows required to release software. For example, deploy software packages to dev and staging environments first, where a series of tests and scans are run, before it's released to production instances.
 
-
-## AWS CodeBuild
-
-A continuous integration service that builds and compiles source code, runs a predefined set of tests and generates artifacts as deployable software.
-
 ## AWS CodeCommit:
 
 A source control service on AWS that hosts private Git repositories and works seamlessly with existing Git-based tools. Because it is available on AWS portal as a hosted platform, developers can also use the console version to collaborate and commit, branch and perform other operations on the code repositories from a web UI.
